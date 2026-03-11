@@ -1,0 +1,7 @@
+This is an example text file.
+
+Name: Pratyush
+Course: BSc IT
+Year: 2024
+
+This file is added to demonstrate GitHub commits.
